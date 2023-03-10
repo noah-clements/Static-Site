@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>District Archives - The Clements Firm</title>
+	<atom:link href="/tag/district/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/district/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jul 2019 15:58:37 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>District Archives - The Clements Firm</title>
+	<link>/tag/district/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>DC Post-and-Forfeit Is Not A Conviction For Immigration Purposes</title>
+		<link>/2013/07/08/dc-post-and-forfeit-is-not-a-conviction-for-immigration-purposes/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Mon, 08 Jul 2013 04:51:33 +0000</pubDate>
+				<category><![CDATA[Criminal Law]]></category>
+		<category><![CDATA[Immigration]]></category>
+		<category><![CDATA[Criminal Immigration]]></category>
+		<category><![CDATA[DC]]></category>
+		<category><![CDATA[District]]></category>
+		<category><![CDATA[Immigration Court]]></category>
+		<category><![CDATA[Misdemeanors]]></category>
+		<category><![CDATA[Removal Defence]]></category>
+		<category><![CDATA[Statutory Interpretation]]></category>
+		<category><![CDATA[Washington]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/?p=421</guid>
+
+					<description><![CDATA[<p>A colleague recently asked me whether the DC post-and-forfeit procedure after arrest is properly considered a conviction under federal and immigration law. The simple answer is that the post-and-forfeit procedure does not equate to a conviction. Under immigration laws, a conviction is defined as follows (in 8 U.S.C. § 1101(a)(48)(A)): The term &#8220;conviction&#8221; means, with respect &#8230;</p>
+<p class="read-more"> <a class="" href="/2013/07/08/dc-post-and-forfeit-is-not-a-conviction-for-immigration-purposes/"> <span class="screen-reader-text">DC Post-and-Forfeit Is Not A Conviction For Immigration Purposes</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/2013/07/08/dc-post-and-forfeit-is-not-a-conviction-for-immigration-purposes/">DC Post-and-Forfeit Is Not A Conviction For Immigration Purposes</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>A colleague recently asked me whether the DC post-and-forfeit procedure after arrest is properly considered a conviction under federal and immigration law. The simple answer is that the post-and-forfeit procedure does not equate to a conviction.<span id="more-421"></span></p>
+<p>Under immigration laws, a conviction is defined as follows (in <a href="http://www.law.cornell.edu/uscode/text/8/1101" target="_blank" rel="noopener noreferrer">8 U.S.C. § 1101(a)(48)(A)</a>):</p>
+<blockquote><p>The term &#8220;conviction&#8221; means, with respect to an alien, a formal judgment of guilt of the alien entered by a court or, if adjudication of guilt has been withheld, where:</p>
+<p>(i) a judge or jury has found the alien guilty or the alien has entered a plea of guilty or nolo contendere or has admitted sufficient facts to warrant a finding of guilt, and</p>
+<p>(ii) the judge has ordered some form of punishment, penalty, or restraint on the alien’s liberty to be imposed.”</p></blockquote>
+<p>Under this definition, the DC post-and-forfeit procedure does not involve a conviction.</p>
+<p>The DC code regarding its post-and-forfeit procedure is as follows:</p>
+<blockquote><p>§5-335.01. Enforcement of the post-and-forfeit procedure.</p>
+<p>(a) For the purposes of this section, the term “post-and-forfeit procedure” shall mean the procedure enforced as part of the criminal justice system in the District of Columbia whereby a person charged with certain misdemeanors may simultaneously post and forfeit an amount as collateral (which otherwise would serve as security upon release to ensure the arrestee’s appearance at trial) and thereby obtain a full and final resolution of the criminal charge.</p>
+<p>(b) The resolution of a criminal charge using the post-and-forfeit procedure is not a conviction of a crime and shall not be equated to a criminal conviction. The fact that a person resolved a charge using the post-and-forfeit procedure may not be relied upon by any court of the District of Columbia or any agency of the District of Columbia in any subsequent criminal, civil, or administrative proceeding or administrative action to impose any sanction, penalty, enhanced sentence, or civil disability.</p></blockquote>
+<p>One thing that is apparent is that there is no admission or adjudication of guilt in the post-and-forfeit procedure and no judge imposes a punishment.</p>
+<p>The federal district court in DC has also determined that the post-and-forfeit procedure does not involve a conviction. For example, in a recent case, the DC district court stated that “posting and forfeiting is not an admission of guilt, and it does not result in a criminal conviction.” <a href="http://scholar.google.com/scholar_case?case=9516433629804700761" target="_blank" rel="noopener noreferrer"><em>Fox v. District of Columbia</em>, 851 F. Supp. 2d 20, 25 (D.D.C. 2012)</a>. The court went on to explain that “the payment does not result in a criminal conviction and it cannot trigger any of the collateral consequences of a criminal conviction, [therefore] it is not appropriately likened to a criminal sentence.” <em>Id.</em> at 31.</p>
+<p>The post <a rel="nofollow" href="/2013/07/08/dc-post-and-forfeit-is-not-a-conviction-for-immigration-purposes/">DC Post-and-Forfeit Is Not A Conviction For Immigration Purposes</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">421</post-id>	</item>
+	</channel>
+</rss>

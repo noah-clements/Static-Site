@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pro Bono Archives - The Clements Firm</title>
+	<atom:link href="/category/probono/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/probono/</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Apr 2011 20:36:16 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Pro Bono Archives - The Clements Firm</title>
+	<link>/category/probono/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>Noah Clements Honored with Florida Bar President’s Pro Bono Service Award</title>
+		<link>/2011/03/20/24/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Sun, 20 Mar 2011 20:33:05 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Pro Bono]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/wordpress/?p=24</guid>
+
+					<description><![CDATA[<p>On January 27, Noah Clements was honored with the Florida Bar President’s Pro Bono Service Award for the out-of-state division.  Many thanks to Sidley Austin for the opportunities.</p>
+<p>The post <a rel="nofollow" href="/2011/03/20/24/">Noah Clements Honored with Florida Bar President’s Pro Bono Service Award</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>On January 27, Noah Clements was honored with the <a title="Florida Bar President's Pro Bono Service Award" href="http://www.floridabar.org/divcom/jn/jnnews01.nsf/8c9f13012b96736985256aa900624829/a0cf7c8797192dc585257830004a11ff%21OpenDocument" target="_blank">Florida Bar President’s Pro Bono Service Award</a> for the out-of-state division.  Many thanks to Sidley Austin for the opportunities.</p>
+<p>The post <a rel="nofollow" href="/2011/03/20/24/">Noah Clements Honored with Florida Bar President’s Pro Bono Service Award</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">24</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Co-Defendants Archives - The Clements Firm</title>
+	<atom:link href="/tag/co-defendants/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/co-defendants/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jul 2019 15:21:26 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Co-Defendants Archives - The Clements Firm</title>
+	<link>/tag/co-defendants/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>The Accomplice Corroboration Rule in Maryland</title>
+		<link>/2011/05/26/the-accomplice-corroboration-rule-in-maryland/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Thu, 26 May 2011 08:49:48 +0000</pubDate>
+				<category><![CDATA[Criminal Law]]></category>
+		<category><![CDATA[Co-Defendants]]></category>
+		<category><![CDATA[Corroboration Rule]]></category>
+		<category><![CDATA[Evidence]]></category>
+		<category><![CDATA[Witnesses]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/wordpress/?p=117</guid>
+
+					<description><![CDATA[<p>In criminal trials, a defendant is judged by people who weren&#8217;t there, didn&#8217;t see what happened, and usually have little experience with the type of crime involved.  What jury could resist testimony from someone who can definitively say that the defendant was guilty of the crime because they committed the crime together?  The accomplice can &#8230;</p>
+<p class="read-more"> <a class="" href="/2011/05/26/the-accomplice-corroboration-rule-in-maryland/"> <span class="screen-reader-text">The Accomplice Corroboration Rule in Maryland</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/2011/05/26/the-accomplice-corroboration-rule-in-maryland/">The Accomplice Corroboration Rule in Maryland</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In criminal trials, a defendant is judged by people who weren&#8217;t there, didn&#8217;t see what happened, and usually have little experience with the type of crime involved.  What jury could resist testimony from someone who can definitively say that the defendant was guilty of the crime because they committed the crime together?  The accomplice can say: &#8220;I was there,  I know all the details of what happened because I participated in the crime.  I&#8217;m sorry.  The defendant was there and did this too.&#8221;  The problem is that such testimony could be a lie motivated by the prospect of a more lenient sentence.   For that reason, in Maryland, as well as in many other states, convictions may not rest only on the uncorroborated testimony of an accomplice.  <a href="http://scholar.google.com/scholar_case?case=4848922481367091463&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer"><em>Watson v. State,</em> 117 A.2d 549, 552 (Md. 1955)</a>,  [WARNING: the facts of some of these cases are quite gruesome, especially <em>Watson</em>].  In this post, I will explore what is called the accomplice corroboration rule as it has been applied in Maryland.  I want to explore a bit about what corroboration is required, what is an accomplice, etc..<span id="more-117"></span></p>
+<p>The basis of many criminal procedure and evidentiary rules is that convictions should be supported by reliable evidence (where other criminal procedure rules exclude reliable evidence improperly obtained &#8211; both types of rules seek protect the public from the power of the state).    In <em>Watson</em>, the Maryland Court of Appeals described the problem with accomplice testimony as follows:</p>
+<blockquote><p>The reason for the rule requiring the testimony of an accomplice to be  corroborated is that it is the testimony of a person admittedly  contaminated with guilt, who admits his participation in the crime for  which he particularly blames the defendant, and it should be regarded  with great suspicion and caution, because otherwise the life or liberty  of an innocent person might be taken away by a witness who makes the  accusation either to gratify his malice or to shield himself from  punishment, or in the hope of receiving clemency by turning State&#8217;s  evidence.</p></blockquote>
+<p><em>Watson</em>, 117 A.2d at 552.  Because accomplice testimony usually does not exist without some promise made by the state, some commentators say that prosecutors who present such testimony should bear an extra burden to ensure its truth.  <em>E.g.</em>, Saverda, <em>Accomplices in Federal Court: the Case for Increased Evidentiary Standards</em>, 100 Yale L. J. 785 (1990), <em>available </em><a href="http://www.jstor.org/pss/796671" target="_blank" rel="noopener noreferrer">here.</a> The Maryland Court of Appeals presented a survey of other states&#8217; rules on accomplice testimony in <a href="http://scholar.google.com/scholar_case?case=3608852777050582984&amp;q=corroboration+rule&amp;hl=en&amp;as_sdt=4,21#[1]" target="_blank" rel="noopener noreferrer"><em>Brown v. State</em>, 378 A. 2d 1104 n.1 (Md. 1977)</a>.</p>
+<p>There have been a number of cases that have turned on whether the witness was an accomplice.  <em> </em> An accomplice is someone who has voluntarily participated in the crime, either as a principle or as an <span style="text-decoration: underline;">accessory before the fact.</span> &#8220;The term `accomplice&#8217; does not include a person who has guilty  knowledge, or is morally delinquent, or who was even an admitted  participant in a related but distinct offense.&#8221;  <em>Coleman v. State</em>, 121 A. 2d 254,<a href="http://scholar.google.com/scholar_case?case=2170671110300352172&amp;hl=en&amp;as_sdt=4,21&amp;kqfp=11890314658497784986&amp;kql=96&amp;kqpfp=2295347861267889148#kq" target="_blank" rel="noopener noreferrer"> 209 Md. 379, 385</a> (1956) (quoting 2 Wharton, <em>Criminal Evidence</em>, 229, Sec. 448, et seq. (12th Ed.)).  &#8220;The test for determining whether a person is an accomplice of a defendant charged with a felony is whether he could be indicted and punished for the crime charged against the defendant.&#8221;<em> <a href="http://scholar.google.com/scholar_case?case=4848922481367091463&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer">Watson</a></em><a href="http://scholar.google.com/scholar_case?case=4848922481367091463&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer">, 117 A.2d at 552-53</a> (accessory after the fact not accomplice); <em>see also <a href="http://scholar.google.com/scholar_case?case=16907555573402155025&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer">Seward v. State</a></em><a href="http://scholar.google.com/scholar_case?case=16907555573402155025&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer">, 118 A. 2d 505 (Md. 1955)</a> (boy who knew that other boys had bomb and intended to use it when he accompanied them and did not leave was accomplice); <a href="http://scholar.google.com/scholar_case?case=9229080724877252723&amp;q=corroboration+rule&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer"><em>In re Anthony W</em>, 879 A. 2d 717, 733-34</a> (Md. 2005) (boys who participated in theft and trespass not accomplices to separate crime of vandalism).</p>
+<p>The next question is what corroboration is required.  The answer is &#8220;[n]ot much in the way of evidence corroborative of the accomplice&#8217;s testimony has been required.&#8221;  <a href="http://scholar.google.com/scholar_case?case=3608852777050582984&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer"><em>Brown</em>, 378 A.2d 1104</a>.    Maryland Courts have held &#8220;only slight corroboration is required which would tend either: (1) to identify the defendant with the perpetrators of the crime, or; (2) to show the defendant&#8217;s participation in the crime.&#8221;  <em>Oliver v. State</em>, 454 A. 2d 856, 53 Md. App. 490, 505-06 (1983) (holding officer&#8217;s identification of defendant in close proximity to the crime is adequate corroboration).  That corroboration, however, does have to be from an independent source.  <a href="http://scholar.google.com/scholar_case?case=1820271961273750258&amp;q=corroboration+rule&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer"><em>Turner v. State</em>, 452 A. 2d 416 (Md. 1982)</a> (holding that a witness testifying about the accomplice&#8217;s excited utterance is not corroboration).</p>
+<p>And the courts are serious that the corroboration required is slight.  In <em>Collins v. State</em>, a <span style="text-decoration: underline;">death-penalty</span> case, the Court of Appeals held that a person who saw two black males leave the scene was sufficient corroboration of the accomplice&#8217;s story of the murder to support a death-penalty conviction (presumably the defendant was black).  <em>Collins v. State</em>, 568 A. 2d 1 (Md. 1990) (&#8220;While Gardner&#8217;s testimony in and of itself was not sufficient to substantiate Collins&#8217; participation in the robbery and subsequent murder, it does provide further corroborative evidence tending to connect Collins and Michie to the crime.&#8221;).  It&#8217;s hard to imagine slighter corroboration than &#8220;two black males.&#8221;</p>
+<p>In another death-penalty case, a prison visitation card and a guard&#8217;s testimony that the accomplices visited the defendant in prison on the day that the accomplices stated that the defendant hired them to kill someone was sufficient corroboration to support a murder-for-hire conviction.  <a href="http://scholar.google.com/scholar_case?case=17656261630339775864&amp;hl=en&amp;as_sdt=4,21&amp;kqfp=15689549306444375971&amp;kql=85&amp;kqpfp=18429928916369129697#kq" target="_blank" rel="noopener noreferrer"><em>Grandison v. State</em>, 341 Md. 175 (Md. 1995)</a>.  This is slightly more than &#8220;two black males&#8221;, but not much.</p>
+<p>While I haven&#8217;t found any decision explicitly stating so, the Court of Appeals&#8217; discussion in <em>Anthony W.</em> seems to assume that having multiple accomplices testify does not satisfy the corroboration requirement, <em>Anthony W.</em>, 879 A.2d at 722, 730, as did the Court of Special Appeals (an intermediate appellate court in Maryland). <a href="http://scholar.google.com/scholar_case?case=16695160865501122175&amp;q=corroboration+rule&amp;hl=en&amp;as_sdt=4,21" target="_blank" rel="noopener noreferrer">859 A. 2d 679, 682</a> (Md. Ct. of Spec. App. 2004).  This would make sense as adding another witness with incentive to lie does not add reliable evidence.</p>
+<p>I would welcome any pointers and/or other examples of evidence allowed to fulfill the requirements of the accomplice corroboration rule in Maryland.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/2011/05/26/the-accomplice-corroboration-rule-in-maryland/">The Accomplice Corroboration Rule in Maryland</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">117</post-id>	</item>
+	</channel>
+</rss>

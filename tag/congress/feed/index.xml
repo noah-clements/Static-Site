@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Congress Archives - The Clements Firm</title>
+	<atom:link href="/tag/congress/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/congress/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jul 2019 15:30:41 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Congress Archives - The Clements Firm</title>
+	<link>/tag/congress/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>Congressional Research Service issues new report outlining immigration issues faced by Congress</title>
+		<link>/2011/03/26/congressional-research-service-issues-new-report-outlining-immigration-issues-faced-by-congress/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Sat, 26 Mar 2011 06:00:36 +0000</pubDate>
+				<category><![CDATA[Immigration]]></category>
+		<category><![CDATA[CIR]]></category>
+		<category><![CDATA[Comprehensive Immigration Reform]]></category>
+		<category><![CDATA[Congress]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/wordpress/?p=64</guid>
+
+					<description><![CDATA[<p>The Congressional Research Service tees up the immigration issues facing Congress with a balanced report on the debates surrounding various issues.  From the summary: The number of foreign-born people residing in the United States is at the highest level in U.S. history and has reached a proportion of the U.S. population—12.5%—not seen since the early &#8230;</p>
+<p class="read-more"> <a class="" href="/2011/03/26/congressional-research-service-issues-new-report-outlining-immigration-issues-faced-by-congress/"> <span class="screen-reader-text">Congressional Research Service issues new report outlining immigration issues faced by Congress</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/2011/03/26/congressional-research-service-issues-new-report-outlining-immigration-issues-faced-by-congress/">Congressional Research Service issues new report outlining immigration issues faced by Congress</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The Congressional Research Service tees up the immigration issues facing Congress with a <a href="http://fpc.state.gov/documents/organization/159345.pdf" target="_blank" rel="noopener noreferrer">balanced repor</a>t on the debates surrounding various issues.  From the summary:</p>
+<blockquote><p>The number of foreign-born people residing in the United States is at the highest level in U.S. history and has reached a proportion of the U.S. population—12.5%—not seen since the early 20th century. Of the 38 million foreign-born residents in the United States, approximately 16.4 million are naturalized citizens. The remaining 21.6 million foreign-born residents are noncitizens. According to the latest estimates by the Department of Homeland Security (DHS), about 10.8 million unauthorized aliens were living in the United States in January 2010, down from a peak of 11.8 million in January 2007. Some observers and policy experts maintain that the presence of millions of unauthorized residents is evidence of inadequacies in the legal immigration system as well as failures of immigration control policies and practices.<span id="more-64"></span><br />
+This report synthesizes immigration issues as a multi-tiered debate. It breaks down the U.S. immigration law and policy into key elements: border control and visa security; legal immigration; documentation and verification; interior immigration enforcement; integration, status, and benefits; and refugees and other humanitarian populations. It delineates the debate in the 112th Congress for a range of issues, including border security, criminal aliens, worksite enforcement, employment eligibility verification, permanent admissions, temporary workers, legalization, noncitizen eligibility for federal benefits, birthright citizenship, and the role of state and local law enforcement in enforcing immigration laws.</p></blockquote>
+<p>The post <a rel="nofollow" href="/2011/03/26/congressional-research-service-issues-new-report-outlining-immigration-issues-faced-by-congress/">Congressional Research Service issues new report outlining immigration issues faced by Congress</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">64</post-id>	</item>
+	</channel>
+</rss>

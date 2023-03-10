@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Productivity	</title>
+	<atom:link href="/2019/05/21/productivity/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/05/21/productivity/</link>
+	<description></description>
+	<lastBuildDate>Sat, 25 May 2019 04:13:55 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<item>
+		<title>
+		By: Noah Clements		</title>
+		<link>/2019/05/21/productivity/#comment-14987</link>
+
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Tue, 21 May 2019 21:11:26 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1636#comment-14987</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/2019/05/21/productivity/#comment-14986&quot;&gt;Scrofano Law PC&lt;/a&gt;.
+
+I agree. I often have to psyche myself into it though by listing the things I just did. Deal with big deal emergency - Check!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/2019/05/21/productivity/#comment-14986">Scrofano Law PC</a>.</p>
+<p>I agree. I often have to psyche myself into it though by listing the things I just did. Deal with big deal emergency &#8211; Check!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Scrofano Law PC		</title>
+		<link>/2019/05/21/productivity/#comment-14986</link>
+
+		<dc:creator><![CDATA[Scrofano Law PC]]></dc:creator>
+		<pubDate>Tue, 21 May 2019 16:42:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=1636#comment-14986</guid>
+
+					<description><![CDATA[Great post!  I find to do lists can be very helpful in running my criminal law practice.  Sometimes checking off small tasks help me build momentum into feeling productive and getting more done.]]></description>
+			<content:encoded><![CDATA[<p>Great post!  I find to do lists can be very helpful in running my criminal law practice.  Sometimes checking off small tasks help me build momentum into feeling productive and getting more done.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

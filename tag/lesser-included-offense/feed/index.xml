@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Lesser Included Offense Archives - The Clements Firm</title>
+	<atom:link href="/tag/lesser-included-offense/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/lesser-included-offense/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jul 2019 15:35:06 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Lesser Included Offense Archives - The Clements Firm</title>
+	<link>/tag/lesser-included-offense/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>Lesser Included Offenses and Attempt</title>
+		<link>/2012/09/09/lesser-included-offenses/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Sun, 09 Sep 2012 19:14:55 +0000</pubDate>
+				<category><![CDATA[Criminal Law]]></category>
+		<category><![CDATA[Attempt]]></category>
+		<category><![CDATA[DC]]></category>
+		<category><![CDATA[District of Columbia]]></category>
+		<category><![CDATA[Fraud]]></category>
+		<category><![CDATA[Lesser Included Offense]]></category>
+		<category><![CDATA[Statutory Interpretation]]></category>
+		<category><![CDATA[Theft]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/?p=311</guid>
+
+					<description><![CDATA[<p>In a recent case, the trial judge asked the parties for post-trial briefing on whether Second-Degree Theft is a lesser-included offense of Second-Degree Fraud in DC. A straight-forward question, I thought, and one I believed that the prosecution basically conceded by answering that in its view attempted second-degree theft is a lesser-included offense of second-degree &#8230;</p>
+<p class="read-more"> <a class="" href="/2012/09/09/lesser-included-offenses/"> <span class="screen-reader-text">Lesser Included Offenses and Attempt</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/2012/09/09/lesser-included-offenses/">Lesser Included Offenses and Attempt</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>In a recent case, the trial judge asked the parties for post-trial briefing on whether Second-Degree Theft is a lesser-included offense of Second-Degree Fraud in DC. A straight-forward question, I thought, and one I believed that the prosecution basically conceded by answering that in its view <em>attempted</em> second-degree theft is a lesser-included offense of second-degree fraud.</p>
+<p>Attempt is the prosecution&#8217;s catch-all for failure to prove necessary elements (other than intent), and in DC, prosecutors often charge attempt instead of certain felonies to deprive defendants of their rights to a jury trial. The only problem is that the attempt statute,&nbsp;D.C. Code §&nbsp;22-1803, limits its application to crimes that don&#8217;t already have a provision in the Code punishing the attempt. In other words, the attempt statute is not meant to replace more specific attempt offenses, and you can&#8217;t attempt to attempt to commit a crime.<span id="more-311"></span></p>
+<p>The Supreme Court (in the wonderfully named <em><a href="http://scholar.google.com/scholar_case?case=12790155691285587220&amp;scilh=0">Schmuck v. US</a></em>) and the <a href="http://scholar.google.com/scholar_case?case=15746005502953545399&amp;scilh=0" target="_blank" rel="noopener noreferrer">D.C. Court of Appeals</a> apply an “elements” test to determine whether one offense is a lesser-included offense of another.&nbsp;“Under this test, one offense is not ‘necessarily included’ in another [and therefore a lesser-included offense] unless the elements of the lesser offense are a subset of the elements of the charged offense.”&nbsp;<em>Schmuck</em>, 489 U.S. at 716.&nbsp;A lesser-included offense is one such that “it is impossible to commit the greater without first having committed the lesser” so that the evidence required to prove the greater offense “would prove the lesser offense as a necessary element.”&nbsp;<em>Schmuck</em>, 489 U.S. at 719&nbsp;There is no requirement that the lesser-included offense incur a lesser sentence,&nbsp;so the fact that second-degree fraud and second-degree theft have the same maximum penalty does not decide the issue; the elements test is the sole consideration.</p>
+<p>Examination of the respective elements of second-degree theft and second-degree fraud demonstrate that theft is not a lesser-included offense of fraud. For example, the second-degree theft statute (at D.C. Code §&nbsp;22-3212(b))&nbsp;states:</p>
+<blockquote><p>“A person commits the offense of theft if that person wrongfully obtains or uses the property of another with intent:</p>
+<p>(1) To deprive the other of a right to the property or a benefit of the property; or</p>
+<p>(2) To appropriate the property to his or her own use or to the use of a third person.</p></blockquote>
+<p>The D.C. Court of Appeals has elaborated that the essential elements of second-degree theft are that (1) the defendant wrongfully obtained property of another; (2) that at the time he obtained it, he specifically intended “either to deprive [the victim] of a right to the property or a benefit of the property or to take or make use of the property for [himself] &#8230; without authority or right”; and (3) that the property had some value.<a href="http://scholar.google.com/scholar_case?case=16943398911230210719&amp;scilh=0" target="_blank" rel="noopener noreferrer">&nbsp;<em>Price v. United States</em>, 985 A.2d 434, 436 (D.C. 2009).</a></p>
+<p>By contrast, the second-degree fraud statute (D.C. Code §&nbsp;22-3221(b))&nbsp;states:</p>
+<blockquote><p>A person commits the offense of fraud in the second degree if that person engages in a scheme or systematic course of conduct with intent to defraud or to obtain property of another by means of a false or fraudulent pretense, representation, or promise.</p></blockquote>
+<p>The first thing apparent is that theft includes as a required element the obtaining of property, something not required to prove second-degree fraud. This is why the prosecution had to argue for <em>attempted</em> theft as the lesser included charge. By comparison, first-degree fraud adds this element, by adding “and thereby obtains property of another or causes another to lose property.” As <a href="http://koehlerlaw.net/assault-theft/theft-fraud/" target="_blank" rel="noopener noreferrer">others have noted</a>, second-degree fraud in DC is basically attempted fraud.</p>
+<p>Secondly, theft requires that at the time the defendant obtained the property, he or she intended to either deprive the owner of “a right to the property or a benefit of the property or to take or make use of the property . . . without authority or right.” DC Criminal Jury Instructions (Redbook) Instruction 5.300(2).&nbsp;This is not a requirement to a fraud charge, even when the defendant has obtained property through “a false or fraudulent pretense, representation, or promise.”&nbsp;One could be guilty of fraud even without intending to deprive the person from whom property was obtained of a benefit of that property, and may even have received authority or right to the property by the owner.</p>
+<p>Now fraud has other elements that theft does not, such as the requirement that there be a scheme or pattern of conduct, and that there be false representations or trickery, etc., which is why the judge asked whether theft was a lesser-included offense of fraud.</p>
+<p>I think even the prosecution would agree that second-degree theft is not a lesser-included offense of second-degree fraud, &nbsp;but unfortunately, the judge bought the argument that <em>attempted</em> 2d degree theft is. Crazy enough, I could find only one DC case (from 1963!) where the issue of whether the attempt statute could be applied to another offense that included attempt:&nbsp;<a href="http://scholar.google.com/scholar_case?case=7394727389692746994&amp;q=attempt+%22otherwise+made+punishable%22&amp;hl=en&amp;as_sdt=4,9" target="_blank" rel="noopener noreferrer"><em>United States v. Caviness</em>, 192 A. 2d 288 (DC 1963)</a>. I am hopeful that this conviction will be overturned on appeal (and thankfully, the defendant is not in jail while this is happening).</p>
+<div>
+<hr align="left" size="1" width="33%">
+<div>
+<p>The Attempt Statute, D.C. Code §&nbsp;22-1803, says:</p>
+<blockquote><p>Whoever shall attempt to commit any crime, which attempt is not otherwise made punishable by chapter 19 of An Act to establish a code of law for the District of Columbia, approved March 3, 1901 (31 Stat. 1321), shall be punished by a fine not exceeding $1,000 or by imprisonment for not more than 180 days, or both. Except, whoever shall attempt to commit a crime of violence as defined in&nbsp;<a>§ 23-1331</a>&nbsp;shall be punished by a fine not exceeding $5,000 or by imprisonment for not more than 5 years, or both.</p></blockquote>
+</div>
+</div>
+<div></div>
+<p>&nbsp;</p>
+<div><br clear="all"></p>
+<div>
+<p>&nbsp;</p>
+</div>
+</div>
+<p>The post <a rel="nofollow" href="/2012/09/09/lesser-included-offenses/">Lesser Included Offenses and Attempt</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">311</post-id>	</item>
+	</channel>
+</rss>

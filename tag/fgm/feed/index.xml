@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>FGM Archives - The Clements Firm</title>
+	<atom:link href="/tag/fgm/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/fgm/</link>
+	<description></description>
+	<lastBuildDate>Wed, 24 Jul 2019 15:19:33 +0000</lastBuildDate>
+	<language>en</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://i0.wp.com/theclementsfirm.com/wp-content/uploads/2019/05/cropped-TCFLogo012419White-1.png?fit=32%2C32&#038;ssl=1</url>
+	<title>FGM Archives - The Clements Firm</title>
+	<link>/tag/fgm/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">21395931</site>	<item>
+		<title>Immigration Court Asylum Victory!</title>
+		<link>/2011/08/23/immigration-court-asylum-victory/</link>
+		
+		<dc:creator><![CDATA[Noah Clements]]></dc:creator>
+		<pubDate>Tue, 23 Aug 2011 06:34:07 +0000</pubDate>
+				<category><![CDATA[Immigration]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Asylum]]></category>
+		<category><![CDATA[Credible Fear]]></category>
+		<category><![CDATA[FGM]]></category>
+		<category><![CDATA[Immigration Court]]></category>
+		<category><![CDATA[Political Opinion]]></category>
+		<category><![CDATA[removal]]></category>
+		<guid isPermaLink="false">http://new.theclementsfirm.com/?p=159</guid>
+
+					<description><![CDATA[<p>Today in Baltimore Immigration Court, I was lucky to be able to help a client from Eritrea get asylum.  My client had been subjected to almost six months incommunicado detention where she was raped and beaten after speaking out against the government at a work meeting.  Like many Eritrean women, she had also been subjected &#8230;</p>
+<p class="read-more"> <a class="" href="/2011/08/23/immigration-court-asylum-victory/"> <span class="screen-reader-text">Immigration Court Asylum Victory!</span> Read More &#187;</a></p>
+<p>The post <a rel="nofollow" href="/2011/08/23/immigration-court-asylum-victory/">Immigration Court Asylum Victory!</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Today in Baltimore Immigration Court, I was lucky to be able to help a client from Eritrea get asylum.  My client had been subjected to almost six months incommunicado detention where she was raped and beaten after speaking out against the government at a work meeting.  Like many Eritrean women, she had also been subjected to female genital mutilation (cutting/circumcision) that continues to cause her much pain.  She was granted asylum on two grounds: membership in the particular social group of Tegrigna women opposed to FGM, and on account of imputed political opinion.  I am very grateful to have been a part of helping this client get asylum protection from removal.</p>
+<p>The post <a rel="nofollow" href="/2011/08/23/immigration-court-asylum-victory/">Immigration Court Asylum Victory!</a> appeared first on <a rel="nofollow" href="/">The Clements Firm</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">159</post-id>	</item>
+	</channel>
+</rss>
